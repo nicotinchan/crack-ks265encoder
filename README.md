@@ -1,5 +1,5 @@
 Cracking Ks265codec Encoder in ubuntu_x64
-(https://github.com/ksvc/ks265codec/ubuntu_x64/appencoder)
+(https://github.com/ksvc/ks265codec)
 
 Offering encode API like ffmpeg
 
