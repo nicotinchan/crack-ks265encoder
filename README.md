@@ -10,8 +10,9 @@ Dependence:
 
 Usage:
 1. make
+2. chmod 777 appencoder
 2. run demo: ./demo -i test.yuv -w width -h height -f fps
-3. use hevc_encoder API in your code as demo
+3. use hevc_encoder API in your code as main.c
  
 Warning:
 This cracked-encoder ONLY for developers to learn, share and exchange use and not for other purposes. All copyright of the original publisher.
